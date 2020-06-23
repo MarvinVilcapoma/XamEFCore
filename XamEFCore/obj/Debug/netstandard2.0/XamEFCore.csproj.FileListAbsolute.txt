@@ -1,0 +1,16 @@
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\XamEFCore.deps.json
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\XamEFCore.dll
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.AssemblyInfo.cs
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\Views\AlbumesPage.xaml.g.cs
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\Views\AlbumPage.xaml.g.cs
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\ref\XamEFCore.dll
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\bin\Debug\netstandard2.0\XamEFCore.pdb
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.dll
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\ref\XamEFCore.dll
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.pdb
+C:\Users\marvi\source\repos\XamEFCore\XamEFCore\obj\Debug\netstandard2.0\XamEFCore.csprojAssemblyReference.cache
